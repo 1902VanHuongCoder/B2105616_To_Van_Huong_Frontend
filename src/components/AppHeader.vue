@@ -1,4 +1,4 @@
-<!-- 
+
 <template>  
 <nav class="navbar navbar-expand navbar-dark bg-dark">  
   <a href="/" class="navbar-brand">Ứng dụng Quản lý danh bạ</a>  
@@ -11,4 +11,4 @@
     </li>  
   </div>  
 </nav>  
-</template> -->
+</template>
