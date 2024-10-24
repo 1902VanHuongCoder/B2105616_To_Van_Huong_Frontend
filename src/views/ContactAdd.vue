@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="page">
     <h4>Thêm liên hệ</h4>
     <ContactForm :contact="contact" @submit:contact="addContact" />
@@ -36,4 +36,4 @@ export default {
     },
   },
 };
-</script>
+</script> -->
